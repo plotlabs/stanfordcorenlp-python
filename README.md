@@ -1,6 +1,7 @@
-# stanfordcorenlp-python
+# Stanfordcorenlp-python
 
-Requirements: 
--Modified Stanford Core-NLP Jar file (included in commit)
--Jpype
--Maven (for building Stanford Core-NLP incase you want to work with customised code)
+This package is a python wrapper for Stanford-CoreNLP version 3.9.1
+
+###Requirements: 
+1. Stanford Core-NLP Jar file for version 3.9.1\n
+2. Python 2.7\n

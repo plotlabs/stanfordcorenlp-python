@@ -1,7 +1,24 @@
-# Stanfordcorenlp-python
+# Stanford-CoreNLP Python Wrapper
 
-This package is a python wrapper for Stanford-CoreNLP version 3.9.1
+> A Python wrapper for Stanford-CoreNLP version 3.9.1 using Jpype
 
-###Requirements: 
-1. Stanford Core-NLP Jar file for version 3.9.1\n
-2. Python 2.7\n
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## How to install
+
+Clone the repository
+```
+git clone https://github.com/plotlabs/stanfordcorenlp-python.git
+```
+
+Run the setup.py file
+
+```
+python setup.py install
+```
+
+
+## Requirements
+Modified Stanford Core-NLP jar file for version 3.9.1 is included in the commit. 
+
+The version of Jpype is defined in the requirements.txt.

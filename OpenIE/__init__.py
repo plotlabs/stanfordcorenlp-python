@@ -1,1 +1,1 @@
-from .main import openIE
+from .stanfordcorenlp-python import getStanNLP

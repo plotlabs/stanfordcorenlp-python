@@ -10,6 +10,9 @@ Clone the repository
 ```
 git clone https://github.com/plotlabs/stanfordcorenlp-python.git
 ```
+Run the following Commands to compile the Java code:
+export CLASS_PATH=/*:/resources/*
+javac -cp CLASS_PATH Py4j_try.java
 
 Run the setup.py file
 

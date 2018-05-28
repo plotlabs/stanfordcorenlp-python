@@ -2,4 +2,7 @@ JPype*
 .DS_Store
 py4j-mas*
 *.pyc
-stanford-corenlp-3.9.1/
+resources/*.jar
+resources/*.tsv
+*.class
+*.tsv

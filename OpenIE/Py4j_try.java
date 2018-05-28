@@ -1,9 +1,8 @@
 import py4j.GatewayServer;
-
-/*
+import edu.stanford.nlp.ie.crf.CRFClassifier;
 import edu.stanford.nlp.ie.util.RelationTriple;
-import edu.stanford.nlp.io.IOUtils;
 import edu.stanford.nlp.ling.CoreAnnotations;
+import edu.stanford.nlp.ling.CoreLabel;
 import edu.stanford.nlp.naturalli.NaturalLogicAnnotations;
 import edu.stanford.nlp.naturalli.OpenIE;
 import edu.stanford.nlp.naturalli.SentenceFragment;
@@ -11,22 +10,10 @@ import edu.stanford.nlp.pipeline.Annotation;
 import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 import edu.stanford.nlp.semgraph.SemanticGraph;
 import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
+import edu.stanford.nlp.sequences.SeqClassifierFlags;
 import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.PropertiesUtils;
-*/
-
-import edu.stanford.nlp.ie.util.RelationTriple;
-import edu.stanford.nlp.io.IOUtils;
-import edu.stanford.nlp.ling.CoreAnnotations;
-import edu.stanford.nlp.naturalli.NaturalLogicAnnotations;
-import edu.stanford.nlp.naturalli.OpenIE;
-import edu.stanford.nlp.naturalli.SentenceFragment;
-import edu.stanford.nlp.pipeline.Annotation;
-import edu.stanford.nlp.pipeline.StanfordCoreNLP;
-import edu.stanford.nlp.semgraph.SemanticGraph;
-import edu.stanford.nlp.semgraph.SemanticGraphCoreAnnotations;
-import edu.stanford.nlp.util.CoreMap;
-import edu.stanford.nlp.util.PropertiesUtils;
+import edu.stanford.nlp.util.StringUtils;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -106,6 +93,29 @@ public class Py4j_try {
 			}
 		}
 		return clauses_out;
+	}
+	
+	public void trainAndWrite(String modelOutPath, String prop, String trainingFilepath) 
+	{
+		   System.out.println(prop);
+		   Properties props = StringUtils.propFileToProperties(prop);
+		   props.setProperty("serializeTo", modelOutPath);
+		   //if input use that, else use from properties file.
+		   if (trainingFilepath != null) {
+		       props.setProperty("trainFile", trainingFilepath);
+		   }
+		   SeqClassifierFlags flags = new SeqClassifierFlags(props);
+		   CRFClassifier<CoreLabel> crf = new CRFClassifier<>(flags);
+		   crf.train();
+		   crf.serializeClassifier(modelOutPath);
+	}
+	
+	public String doTagging(String modelPath, String input) 
+	{
+		CRFClassifier<CoreLabel> model = CRFClassifier.getClassifierNoExceptions(modelPath);
+		input = input.trim();
+		System.out.println(input + "=>"  +  model.classifyToString(input));
+		return model.classifyToString(input);
 	}
 	
 	public static void main(String args[])

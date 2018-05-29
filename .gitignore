@@ -4,5 +4,6 @@ py4j-mas*
 *.pyc
 resources/*.jar
 resources/*.tsv
+resources/target/*
 *.class
 *.tsv

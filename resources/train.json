@@ -1,0 +1,3119 @@
+apple	Brand
+watch	Category
+
+ipad	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+apple	Brand
+laptop	Category
+
+apple	Brand
+homepod	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+42mm	ScreenSize
+
+apple	Brand
+tv	Category
+
+iphone	ModelName
+x	ModelName
+
+airpods	Category
+wireless	O
+
+amiibo	ModelName
+
+amazon	Brand
+fire	ModelName
+stick	ModelName
+
+all-in-one	O
+computers	Category
+
+arlo	Brand
+pro	ModelName
+
+air	Category
+fryer	Category
+
+iphone	ModelName
+
+asus	Brand
+laptop	Category
+
+ipad	ModelName
+pro	ModelName
+10.5	ScreenSize
+inch	ScreenSize
+
+antennas	Category
+hdtv	Category
+antenna	Category
+
+alienware	ModelName
+laptop	Category
+
+apple	Brand
+watch	Category
+
+ipad	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+apple	Brand
+laptop	Category
+
+apple	Brand
+homepod	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+42mm	ScreenSize
+
+apple	Brand
+tv	Category
+
+iphone	ModelName
+x	ModelName
+
+airpods	Category
+wireless	O
+
+beats	Brand
+solo3	ModelName
+wireless	O
+
+beats	Brand
+wireless	O
+
+bluetooth	O
+speakers	Category
+
+bose	Brand
+wireless	O
+headphones	Category
+
+blu-ray	Category
+
+bluetooth	O
+headphones	Category
+
+beats	Brand
+studio	ModelName
+wireless	O
+
+beats	Brand
+headphones	Category
+
+chromebook	Category
+
+camera	Category
+
+call	ModelName
+of	ModelName
+duty	ModelName
+world	O
+war	O
+2	O
+
+cell	Category
+phones	Category
+
+canon	Brand
+camera	Category
+
+computer	Category
+
+computer	Category
+monitors	Category
+
+iphone	ModelName
+x	ModelName
+case	Category
+
+call	ModelName
+of	ModelName
+duty	ModelName
+wwii	O
+
+desktop	Category
+computers	Category
+
+dishwasher	Category
+
+dell	Brand
+laptop	Category
+
+dvd	Category
+player	Category
+
+drones	Category
+with	O
+camera	O
+
+dryer	Category
+
+dyson	Brand
+vacuum	Category
+
+dell	Brand
+xps	ModelName
+13	ModelName
+
+external	O
+hard	Category
+drive	Category
+
+external	O
+hard	Category
+drive	Category
+
+essential	Brand
+phone	Category
+
+earbud	Category
+headphones	Category
+
+echo	ModelName
+dot	ModelName
+
+ethernet	O
+cable	Category
+
+earphones	Category
+
+easystore	ModelName
+8tb	Storage
+
+refrigerator	Category
+
+fitbit	Brand
+
+fire	ModelName
+stick	ModelName
+
+fingerlings	Brand
+baby	O
+monkeys	O
+
+xbox	ModelName
+one	ModelName
+x	ModelName
+
+fitbit	Brand
+charge	ModelName
+2	ModelName
+
+fitbit	Brand
+ionic	ModelName
+
+freezer	Category
+
+gopro	Brand
+
+gaming	O
+laptop	Category
+
+gaming	Category
+desktop	Category
+
+google	ModelName
+home	ModelName
+
+graphics	Category
+card	Category
+
+google	Brand
+home	ModelName
+mini	ModelName
+
+gps	Category
+navigation	Category
+
+google	Brand
+pixel	Brand
+2	O
+
+gps	Category
+for	O
+cars	O
+
+television	Category
+
+headphones	Category
+
+hp	Brand
+laptop	Category
+
+horizon	ModelName
+zero	ModelName
+dawn	ModelName
+
+hard	Category
+drive	Category
+
+hp	Brand
+spectre	ModelName
+x360	ModelName
+
+home	Category
+theater	Category
+system	O
+
+horizon	ModelName
+zero	O
+dawn	O
+ps4	O
+
+hoverboard	Category
+
+ipad	ModelName
+
+iphone	ModelName
+x	ModelName
+
+ipad	ModelName
+pro	ModelName
+10.5	ScreenSize
+inch	ScreenSize
+
+iphone	ModelName
+x	ModelName
+case	Category
+
+ipad	ModelName
+pro	ModelName
+12.9	ScreenSize
+inch	ScreenSize
+
+iphone	ModelName
+8	ModelName
+
+iphone	ModelName
+6	ModelName
+
+ipad	ModelName
+mini	ModelName
+
+iphone	ModelName
+7	ModelName
+plus	ModelName
+
+apple	Brand
+watch	Category
+
+jbl	Brand
+bluetooth	Category
+speaker	Category
+
+jaybird	Brand
+
+jaybird	Brand
+x3	ModelName
+
+jbl	Brand
+charge	ModelName
+3	ModelName
+
+jbl	Brand
+wireless	O
+headphones	Category
+
+jaybird	Brand
+freedom	ModelName
+f5	ModelName
+
+jaybird	Brand
+freedom	ModelName
+
+just	ModelName
+dance	ModelName
+2018	ModelName
+
+jbl	Brand
+flip	ModelName
+4	ModelName
+bluetooth	Category
+speaker	Category
+
+kitchenaid	Brand
+stand	Category
+mixer	Category
+
+keurig	Brand
+
+kindle	ModelName
+fire	ModelName
+
+keyboard	Category
+
+4k	O
+tv	Category
+
+kitchenaid	Brand
+
+klipsch	Brand
+speakers	Category
+
+kids	O
+tablets	Category
+
+sony	Brand
+4k	O
+
+karaoke	Category
+machine	Category
+
+laptop	Category
+
+laptops	Category
+under	O
+$300	Price
+
+laptops	Brand
+under	O
+$500	Price
+
+lenovo	Brand
+laptop	Category
+
+lg	Brand
+tv	Category
+
+laptops	Brand
+under	O
+$200	Price
+
+logitech	Brand
+mouse	Category
+
+lenovo	Brand
+yoga	ModelName
+720	ModelName
+
+lg	Brand
+oled	ModelName
+65	ModelName
+
+macbook	ModelName
+pro	ModelName
+
+macbook	ModelName
+
+ipad	ModelName
+mini	ModelName
+
+macbook	ModelName
+air	ModelName
+
+monitor	Category
+
+microwave	Category
+
+micro	Category
+sd	Category
+
+cell	Category
+phones	Category
+
+microphone	Category
+
+mini	O
+refrigerators	Category
+
+nintendo	Brand
+switch	ModelName
+
+nintendo	Brand
+classic	ModelName
+edition	ModelName
+
+note8	ModelName
+
+nest	Brand
+thermostat	Category
+
+nintendo	ModelName
+switch	O
+games	Category
+
+nintendo	Brand
+switch	Category
+console	Category
+
+need	ModelName
+for	ModelName
+speed	ModelName
+payback	O
+
+nvidia	Brand
+shield	O
+tv	Category
+
+note8	ModelName
+unlocked	O
+
+nintendo	Brand
+3ds	ModelName
+xl	ModelName
+console	Category
+
+xbox	ModelName
+one	ModelName
+x	ModelName
+
+xbox	ModelName
+one	ModelName
+
+oculus	Brand
+rift	ModelName
+
+oled	O
+tv	Category
+
+over	O
+the	O
+range	O
+microwave	Category
+
+otterbox	Brand
+
+onkyo	Brand
+receivers	Category
+
+call	ModelName
+of	ModelName
+duty	ModelName
+world	ModelName
+war	ModelName
+2	ModelName
+
+playstation	ModelName
+4	ModelName
+
+projector	Category
+
+iphone	ModelName
+x	ModelName
+
+ps4	O
+games	Category
+
+ipad	ModelName
+
+macbook	ModelName
+pro	ModelName
+
+playstation	ModelName
+ps4	ModelName
+console	Category
+
+printers	Category
+all	O
+one	O
+wireless	O
+
+ps4	ModelName
+pro	ModelName
+
+ipad	ModelName
+pro	ModelName
+10.5	ScreenSize
+inch	ScreenSize
+
+qled	O
+4k	O
+tv	Category
+
+qi	O
+wireless	Category
+charging	Category
+
+qled	O
+samsung	Brand
+smart	Category
+tv	Category
+
+qi	O
+wireless	Category
+charger	Category
+
+quicken	Brand
+2018	O
+
+quickbooks	Brand
+pro	ModelName
+2018	ModelName
+
+refrigerator	Category
+
+ring	Brand
+video	O
+doorbell	Category
+
+roku	Category
+
+remote	Category
+car	Category
+starter	Category
+
+router	Category
+
+receiver	Category
+
+roku	Brand
+streaming	Category
+stick	Category
+
+refrigerators	Category
+with	O
+french	O
+doors	O
+
+roku	Brand
+tv	Category
+
+laptop	Category
+
+samsung	Brand
+galaxy	ModelName
+s8	ModelName
+
+soundbar	Category
+
+samsung	Brand
+galaxy	ModelName
+s8	ModelName
+unlocked	O
+
+samsung	Brand
+gear	ModelName
+s3	ModelName
+smartwatch	Category
+
+samsung	Brand
+tv	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+samsung	Brand
+galaxy	ModelName
+s7	ModelName
+edge	ModelName
+unlocked	O
+
+television	Category
+
+tablets	Category
+
+xbox	Brand
+one	ModelName
+x	ModelName
+
+iphone	ModelName
+x	ModelName
+
+tv	Category
+stands	Category
+
+tv	Category
+wall	Category
+mount	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+laptop	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+tablets	Category
+under	O
+$100	Price
+
+unlocked	O
+cell	Category
+phones	Category
+
+usb	Category
+flash	Category
+drive	Category
+
+uncharted	ModelName
+lost	ModelName
+legacy	ModelName
+
+laptops	Category
+under	O
+$300	Price
+
+wii	ModelName
+u	ModelName
+console	Category
+
+upright	Brand
+freezer	Category
+
+usb-c	O
+to	O
+usb	Category
+adapter	Category
+
+universal	Category
+remote	Category
+
+vacuum	Category
+
+vizio	Brand
+4k	O
+tv	Category
+
+vacuum	Category
+cleaners	Category
+
+vizio	Brand
+
+graphics	Category
+card	Category
+
+verizon	Brand
+cell	Category
+phones	Category
+
+video	Category
+camera	Category
+
+vizio	Brand
+soundbar	Category
+
+ring	Brand
+video	Category
+doorbell	Category
+
+ipad	ModelName
+pro	ModelName
+10.5	ScreenSize
+inch	ScreenSize
+
+wireless	O
+headphones	Category
+
+wireless	O
+earbuds	Category
+
+apple	Brand
+watch	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+washer	Category
+dryer	Category
+combo	O
+
+wifi	Category
+extender	Category
+
+washer	Category
+and	Category
+dryer	Category
+
+beats	Brand
+solo3	ModelName
+wireless	O
+
+xbox	ModelName
+one	ModelName
+x	ModelName
+
+xbox	ModelName
+one	ModelName
+
+iphone	ModelName
+x	O
+
+xbox	Brand
+
+xbox	ModelName
+one	ModelName
+controller	O
+
+xbox	ModelName
+x	ModelName
+
+xbox	ModelName
+one	ModelName
+x	ModelName
+scorpio	O
+
+iphone	O
+x	O
+case	Category
+
+xbox	ModelName
+one	ModelName
+games	O
+
+xbox	ModelName
+one	ModelName
+x	ModelName
+console	Category
+
+yamaha	Brand
+receiver	Category
+
+yoga	ModelName
+920	ModelName
+
+yoga	ModelName
+720	ModelName
+
+yamaha	Brand
+soundbar	Category
+
+your	O
+name	O
+blu-ray	Category
+
+yoga	ModelName
+910	ModelName
+
+yeti	ModelName
+microphone	Category
+
+yamaha	Brand
+yas	ModelName
+207	ModelName
+soundbar	Category
+
+yoga	ModelName
+710	ModelName
+
+zagg	Brand
+invisibleshield	ModelName
+glass	O
+
+zagg	Brand
+iphone	O
+x	O
+
+horizon	ModelName
+zero	ModelName
+dawn	ModelName
+
+zelda	ModelName
+nintendo	O
+switch	O
+
+moto	Brand
+z2	ModelName
+force	ModelName
+
+zte	Brand
+blade	ModelName
+spark	ModelName
+
+zte	Brand
+maven	ModelName
+3	ModelName
+
+zte	Brand
+axon	ModelName
+7	ModelName
+unlocked	O
+
+aa	Category
+battery	Category
+
+aaa	Category
+battery	Category
+
+aaaa	Category
+battery	Category
+
+aa	O
+battery	Category
+charger	Category
+
+aaa	Category
+rechargeable	Category
+battery	Category
+
+aa	O
+lithium	O
+rechargeable	Category
+battery	Category
+
+aaxa	Brand
+projector	Category
+
+rechargeable	O
+aa	Category
+battery	Category
+
+ab	Category
+switch	Category
+
+ableton	Brand
+live	O
+9	O
+
+dyson	Brand
+v8	ModelName
+absolute	ModelName
+
+ableton	Brand
+
+above	ModelName
+the	ModelName
+rim	ModelName
+
+about	ModelName
+time	ModelName
+blu-ray	O
+
+acer	Brand
+chromebook	Category
+
+acer	Brand
+laptop	Category
+
+ac	Category
+adapter	Category
+
+acer	Brand
+aspire	ModelName
+e15	ModelName
+
+action	O
+camera	Category
+
+acer	Brand
+monitor	Category
+
+acer	Brand
+predator	ModelName
+laptop	Category
+
+activity	Category
+tracker	Category
+
+acer	Brand
+chromebook	Category
+15	ScreenSize
+
+accessories	Category
+for	O
+iphone	ModelName
+7	ModelName
+
+adapter	Category
+
+adobe	Brand
+photoshop	ModelName
+
+adapters	Category
+for	O
+iphone	O
+7	O
+
+adapter	Category
+for	O
+macbook	O
+pro	O
+
+adobe	Brand
+premiere	Brand
+
+adapters	Category
+and	O
+converters	Category
+
+adobe	Brand
+photoshop	ModelName
+elements	ModelName
+2018	ModelName
+
+aerosmith	Brand
+
+aegis	ModelName
+3	ModelName
+
+aeon	Brand
+wall	Category
+mount	Category
+
+aerosmith	Brand
+cd	Category
+
+aeroccino	Brand
+milk	Category
+frother	Category
+
+aerosmith	Brand
+vinyl	O
+
+aeon	Brand
+projector	Category
+screen	O
+
+aesthetica	ModelName
+of	ModelName
+a	ModelName
+rogue	ModelName
+hero	ModelName
+
+aeon	ModelName
+flux	ModelName
+
+aftershokz	Brand
+headphones	Category
+
+aftershokz	Brand
+trekz	ModelName
+titanium	ModelName
+
+afterglow	Brand
+headset	Category
+for	O
+xbox	O
+one	O
+
+afterglow	Brand
+headset	Category
+
+after	Brand
+shokz	Brand
+
+afterglow	Brand
+ag	ModelName
+9	ModelName
+
+aftershokz	Brand
+
+afterglow	O
+xbox	ModelName
+one	ModelName
+controller	Category
+
+af-p	ModelName
+dx	ModelName
+nikkor	Brand
+10-20mm	O
+
+afterglow	Brand
+headset	Category
+ps4	ModelName
+
+ag	Brand
+9	O
+wireless	O
+headset	Category
+
+agents	ModelName
+of	ModelName
+mayhem	ModelName
+
+agitator	Brand
+washing	Category
+machine	Category
+
+ag	O
+9	O
+xbox	ModelName
+one	ModelName
+headset	Category
+wireless	O
+
+age	ModelName
+of	ModelName
+ultron	ModelName
+
+age	ModelName
+of	ModelName
+empires	ModelName
+
+age	ModelName
+of	ModelName
+adaline	ModelName
+
+ahs	ModelName
+roanoke	ModelName
+
+whirlpool	Brand
+wod93ec0ah	ModelName
+
+whirlpool	Brand
+wos92ec0ah	ModelName
+
+asus	Brand
+vx24ah	ModelName
+
+ahbbp-401	ModelName
+
+airpods	ModelName
+wireless	O
+
+air	Category
+fryer	Category
+
+airpods	Category
+
+air	Category
+purifier	Category
+
+amiibo	ModelName
+
+air	Category
+pods	Category
+
+air	Category
+conditioners	Category
+
+macbook	ModelName
+air	ModelName
+
+airport	ModelName
+extreme	ModelName
+
+airpods	Category
+accessories	Category
+
+akg	Brand
+headphones	Category
+
+akai	Brand
+
+akracing	Brand
+
+akira	Brand
+blu-ray	Category
+
+akg	Brand
+n60	ModelName
+nc	ModelName
+
+akg	Brand
+wireless	O
+
+akiba's	ModelName
+beat	ModelName
+
+akracing	Brand
+chair	Category
+
+akame	ModelName
+ga	ModelName
+kill	ModelName
+
+all-in-one	Category
+computers	Category
+
+alienware	ModelName
+laptop	Category
+
+alexa	ModelName
+echo	ModelName
+
+alienware	ModelName
+desktop	Category
+
+alexa	ModelName
+
+alienware	ModelName
+
+alarm	Category
+clock	Category
+
+all-in-one	Category
+printer	Category
+
+all-in-one	Category
+desktop	Category
+
+altec	Brand
+lansing	Brand
+speakers	Category
+
+amiibo	ModelName
+
+amazon	Brand
+fire	O
+stick	O
+
+amazon	Brand
+echo	ModelName
+
+amazon	Brand
+fire	ModelName
+tv	Category
+
+amazon	Brand
+fire	ModelName
+7"	ScreenSize
+tablet	Category
+
+amazon	Brand
+fire	ModelName
+tablet	Category
+
+amazon	Brand
+fire	ModelName
+hd	ModelName
+8	ModelName
+
+amplifier	Category
+
+am	O
+fm	Category
+radio	Category
+
+am-fm	O
+radios	Category
+
+antennas	O
+hdtv	Category
+antenna	Category
+
+antenna	Category
+
+android	O
+tv	Category
+box	Category
+
+android	O
+tablet	Category
+
+anti	Category
+virus	Category
+software	O
+
+android	O
+smartwatch	Category
+
+android	O
+phone	Category
+
+anki	Brand
+overdrive	Brand
+
+anti-virus	Category
+software	Category
+
+anker	Brand
+power	Category
+
+aoc	Brand
+27"	ScreenSize
+monitor	Category
+
+aoc	Brand
+monitor	Category
+
+aoc	Brand
+21.5	O
+
+aoc	Brand
+4k	O
+monitor	Category
+
+aoc	Brand
+24"	ScreenSize
+monitor	Category
+
+aoc	Brand
+21.5"	ScreenSize
+ips	O
+led	O
+hd	Category
+monitor	Category
+black	O
+
+aoc	Brand
+portable	O
+monitor	Category
+
+aoc	Brand
+gaming	O
+monitor	Category
+
+aoc	Brand
+23"	ScreenSize
+monitor	Category
+
+aoc	Brand
+agon	ModelName
+
+apple	Brand
+watch	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+
+ipad	ModelName
+
+apple	Brand
+laptop	Category
+
+apple	Brand
+homepod	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+42mm	ScreenSize
+
+apple	Brand
+tv	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+1	ModelName
+
+apple	Brand
+watch	Category
+series	ModelName
+3	ModelName
+38mm	O
+
+aquabot	ModelName
+
+aquarium	Category
+
+aquarius	ModelName
+season	ModelName
+2	ModelName
+
+aquasana	Brand
+water	Category
+filter	Category
+
+aqua	ModelName
+teen	ModelName
+hunger	ModelName
+force	ModelName
+
+aqua	O
+bose	Brand
+wireless	O
+headphones	Category
+
+arlo	Brand
+pro	ModelName
+
+arlo	Brand
+pro	ModelName
+2	ModelName
+
+arlo	Brand
+security	Category
+camera	Category
+
+arlo	Brand
+
+arris	Brand
+cable	Category
+modem	Category
+
+arris	Brand
+cable	O
+modem	Category
+router	Category
+
+arlo	Brand
+q	O
+
+arris	Brand
+surfboard	Category
+sb6190	ModelName
+
+arlo	ModelName
+pro	ModelName
+security	O
+camera	Category
+
+asus	Brand
+laptop	Category
+
+assassins	ModelName
+creed	ModelName
+origins	ModelName
+
+asus	Brand
+2	Category
+in	Category
+1	Category
+laptop	Category
+
+astro	Brand
+a40	ModelName
+headset	Category
+
+asus	Brand
+monitor	Category
+
+astro	Brand
+a50	ModelName
+wireless	O
+
+assassin's	ModelName
+creed	ModelName
+
+asus	Brand
+zenbook	ModelName
+
+assassin's	ModelName
+creed	ModelName
+origins	ModelName
+xbox	O
+one	O
+
+at&t	Brand
+prepaid	Category
+phones	Category
+
+at&t	Brand
+
+at&t	O
+zte	Brand
+maven	ModelName
+
+at&t	Brand
+gophone	ModelName
+
+at&t	Brand
+cell	Category
+phones	Category
+
+atomic	ModelName
+blonde	ModelName
+steelbook	ModelName
+
+at&t	O
+prepaid	O
+iphone	ModelName
+
+at&t	Brand
+gophone	O
+iphone	ModelName
+
+audio-technica	Brand
+
+automatic	O
+car	Category
+starter	Category
+
+august	O
+smart	Category
+lock	Category
+
+aux	Category
+cord	Category
+
+audio	O
+cable	Category
+
+audio	Category
+receiver	Category
+
+aux	Category
+cable	Category
+for	O
+car	O
+
+audioquest	Brand
+hdmi	Category
+cables	Category
+
+aux	O
+bluetooth	Category
+adapter	Category
+
+av	Category
+to	Category
+hdmi	Category
+
+av	Category
+cable	Category
+
+av	O
+adapter	Category
+
+av	Category
+receiver	Category
+bluetooth	O
+
+av	O
+10	O
+pin	O
+to	O
+rca	Category
+cable	Category
+
+avatar	O
+blu-ray	Category
+
+av	Category
+receivers	Category
+with	O
+wifi	O
+
+av	Category
+stand	Category
+
+awolnation	Brand
+
+aw-650	Brand
+white	O
+
+awakening	ModelName
+the	ModelName
+zodiac	ModelName
+
+awg	O
+power	Category
+cord	Category
+
+aw17r4-7000slv	ModelName
+
+awg	Category
+cable	Category
+
+lowepro	Brand
+protactic	ModelName
+450	ModelName
+aw	ModelName
+
+aw17r4	ModelName
+
+spirited	ModelName
+away	ModelName
+
+axon	ModelName
+7	ModelName
+
+axon	ModelName
+7	ModelName
+mini	ModelName
+
+axiom	ModelName
+verge	ModelName
+switch	O
+
+axess	Brand
+speaker	Category
+
+axon	ModelName
+7	ModelName
+unlocked	O
+
+axiom	ModelName
+verge	ModelName
+multiverse	O
+edition	O
+
+axxess	Brand
+aswc-1	ModelName
+
+axon	ModelName
+zte	Brand
+7	ModelName
+cell	Category
+phone	Category
+
+azure	ModelName
+striker	ModelName
+gunvolt	ModelName
+striker	ModelName
+pack	ModelName
+
+azus	Brand
+
+azulle	Brand
+mini	Category
+pc	Category
+
+azure	ModelName
+washer	Category
+
+azure	ModelName
+blue	O
+washer	Category
+
+backpack	Category
+
+battery	Category
+
+baby	Category
+monitor	Category
+
+back	O
+up	O
+camera	Category
+
+battlefront	ModelName
+2	ModelName
+ps4	O
+
+battery	Category
+pack	Category
+
+battery	Category
+backup	Category
+
+backup	O
+camera	Category
+
+battlefield	ModelName
+1	ModelName
+
+bb-8	ModelName
+droid	ModelName
+
+bb-9e	ModelName
+
+bbq	Category
+grills	Category
+
+bb	ModelName
+king	ModelName
+
+sphero	Brand
+bb-8	ModelName
+
+bbq	Category
+grill	Category
+set	O
+
+bc	ModelName
+30	ModelName
+wireless	O
+back-up	O
+camera	Category
+
+bc	ModelName
+30	ModelName
+
+bc-trx	O
+battery	Category
+charger	Category
+
+garmin	Brand
+bc	ModelName
+30	ModelName
+
+bcciv	ModelName
+
+garmin	Brand
+bc-30	ModelName
+
+sony	Brand
+gtkxb7bc	ModelName
+
+one	ModelName
+million	ModelName
+bc	ModelName
+
+bdi	O
+tv	Category
+stands	Category
+
+bd-r	O
+50gb	Storage
+
+bd-j5700	ModelName
+
+bd-j6300	ModelName
+blu-ray	Category
+player	Category
+
+bd-j5700	ModelName
+za	O
+
+beats	Brand
+solo3	ModelName
+wireless	O
+
+beats	Brand
+wireless	O
+
+beats	Brand
+studio	O
+wireless	O
+
+beats	Brand
+headphones	Category
+
+beats	Brand
+
+beats	Brand
+solo	ModelName
+2	ModelName
+wireless	O
+
+beats	Brand
+studio	ModelName
+2	ModelName
+
+beats	Brand
+powerbeats	ModelName
+3	ModelName
+
+beats	Brand
+studio	ModelName
+3	ModelName
+
+beats	Brand
+pill	O
+speaker	Category
+
+bfg	ModelName
+blu-ray	O
+
+bfg	ModelName
+dvd	Category
+
+doom	ModelName
+3	ModelName
+bfg	O
+edition	O
+
+the	O
+bfg	O
+blu-ray	Category
+
+bg-e20	ModelName
+
+bg-e16	ModelName
+
+canon	Brand
+bg-e16	ModelName
+battery	Category
+grip	Category
+
+canon	Brand
+bg-e20	ModelName
+battery	Category
+grip	Category
+
+np-bg1	ModelName
+
+np-bg1	O
+battery	Category
+charger	Category
+
+frigidaire	Brand
+bggf3045rf	ModelName
+
+binoculars	Category
+
+big	ModelName
+bang	ModelName
+theory	ModelName
+season	O
+10	O
+
+bissell	Brand
+carpet	Category
+cleaner	Category
+
+bioshock	ModelName
+the	ModelName
+collection	ModelName
+
+bissell	Brand
+crosswave	Brand
+
+bissell	Brand
+vacuum	Category
+
+fitbit	Brand
+
+big	ModelName
+krit	ModelName
+
+bike	Category
+
+bje200xl	ModelName
+
+best	O
+of	O
+b.j.	O
+thomas	O
+cd	Category
+
+lc	ModelName
+71	ModelName
+bk	ModelName
+
+tn221bk	ModelName
+
+lc101bk	ModelName
+
+lc203bk	ModelName
+
+lc103bk	ModelName
+
+lc61bk	ModelName
+
+brother	Brand
+lc103bk	ModelName
+
+brother	Brand
+lc203bk	ModelName
+
+ns-cf26bk6	ModelName
+
+lc75bk	ModelName
+
+bluetooth	O
+speakers	Category
+
+blu-ray	Category
+
+bluetooth	Category
+headphones	Category
+
+bluetooth	O
+headset	Category
+
+bluetooth	Category
+earbuds	Category
+
+bluetooth	O
+adapter	Category
+
+bluetooth	Category
+transmitter	Category
+
+acer	Brand
+aspire	ModelName
+e	ModelName
+15	ModelName
+e5-575-33	ModelName
+bm	ModelName
+
+bmw	Brand
+installation	Category
+kit	Category
+
+bmi	Category
+scale	Category
+
+bmw	Brand
+3	ModelName
+series	ModelName
+
+bmw	Category
+radio	Category
+replacement	O
+
+bmw	O
+dash	Category
+kit	Category
+
+bmx	ModelName
+bandits	ModelName
+
+bmw	O
+installation	Category
+kit	Category
+3	O
+series	O
+
+bmw	O
+radio	Category
+kit	Category
+
+bnc	Category
+cable	Category
+
+bnc	Category
+adapter	Category
+
+bnc	O
+connectors	Category
+
+bnc	Category
+coupler	Category
+
+bnc	Category
+extension	Category
+cable	Category
+
+bnc	Category
+camera	O
+cables	Category
+
+bnc	Category
+camera	O
+
+np-bn1	ModelName
+
+bnc	Category
+extension	Category
+
+bose	Brand
+wireless	O
+headphones	Category
+
+bose	Brand
+speakers	Category
+
+bose	Brand
+headphones	Category
+
+bose	O
+bluetooth	O
+speaker	O
+
+boost	Brand
+mobile	Category
+cell	Category
+phones	Category
+
+bose	Brand
+
+bose	Brand
+soundbar	Category
+
+bosch	Brand
+dishwasher	Category
+
+bose	Brand
+quietcomfort	ModelName
+35	ModelName
+
+bose	Brand
+home	Category
+theater	Category
+system	O
+
+bp	Category
+monitor	Category
+
+bp	ModelName
+9080	ModelName
+
+bp-511	ModelName
+canon	Brand
+battery	Category
+
+bp-808	ModelName
+battery	Category
+
+bp-718	ModelName
+
+bp9060	ModelName
+
+lowepro	Brand
+fastpack	ModelName
+bp	ModelName
+250	ModelName
+aw	ModelName
+ii	ModelName
+
+lg	Brand
+bp	ModelName
+350	ModelName
+
+canon	Brand
+bp-718	ModelName
+battery	Category
+
+evga	Brand
+850w	O
+modular	O
+bq	O
+power	Category
+supply	Category
+
+15m-bq021dx	ModelName
+
+brother	Brand
+printer	Category
+
+breville	Brand
+toaster	Category
+oven	Category
+
+breath	ModelName
+of	ModelName
+the	ModelName
+wild	ModelName
+amiibo	ModelName
+
+brother	Brand
+laser	Category
+printer	Category
+
+breville	Brand
+smart	ModelName
+oven	ModelName
+air	ModelName
+
+breville	Brand
+
+bread	Category
+maker	Category
+
+bragi	Brand
+dash	ModelName
+pro	ModelName
+
+bs015dx	ModelName
+
+sony	Brand
+xb50bs	ModelName
+extra	O
+bass	O
+
+sony	Brand
+xb50bs	ModelName
+wireless	O
+headphones	Category
+
+whirlpool	Brand
+wfg505m0bs	ModelName
+
+sony	Brand
+xb80bs	ModelName
+
+rf-2w1b-sp	ModelName
+
+wfg320m0bs	ModelName
+
+xb50bs	ModelName
+
+xb80bs	ModelName
+
+gua2600bst	ModelName
+
+bt	O
+headphones	Category
+
+bt	Category
+transmitter	Category
+
+bt	O
+headset	Category
+
+bt	O
+earbuds	Category
+
+bt	O
+speakers	Category
+
+jbl	Brand
+reflect	ModelName
+mini	ModelName
+bt	ModelName
+
+bt-300	ModelName
+
+razer	Brand
+hammerhead	ModelName
+bt	ModelName
+
+built	O
+in	O
+oven	Category
+
+xbox	ModelName
+one	ModelName
+s	ModelName
+1tb	O
+bundle	O
+
+built	O
+in	O
+wine	Category
+cooler	Category
+
+bunn	Brand
+coffee	Category
+makers	Category
+
+bvmc-pstx91	ModelName
+
+bw	Brand
+speakers	Category
+
+b&w	Brand
+speakers	Category
+
+b&w	Brand
+headphones	Category
+
+b&w	Brand
+685	ModelName
+s2	ModelName
+
+b&w	Brand
+702	ModelName
+s2	ModelName
+
+b&w	Brand
+subwoofer	Category
+
+b&w	Brand
+700	ModelName
+series	O
+
+b&w	Brand
+center	O
+speaker	Category
+
+b&w	Brand
+px	ModelName
+
+b&w	O
+m1	ModelName
+
+bxt1	ModelName
+
+np-bx1	ModelName
+battery	Category
+
+sony	Brand
+np-bx1	O
+
+bxf130	ModelName
+
+beats	Brand
+by	Brand
+dre	Brand
+
+refrigerator	Category
+side-by-side	O
+
+side	O
+by	O
+side	O
+refrigerator	Category
+
+bytten	Brand
+stacks	ModelName
+
+beats	Brand
+by	Brand
+dr.	Brand
+dre	Brand
+studio	ModelName
+2	ModelName
+
+beats	Brand
+by	Brand
+dre	Brand
+beats	ModelName
+x	ModelName
+
+beats	Brand
+by	Brand
+dre	Brand
+studio	ModelName
+wireless	O
+
+camera	Category
+
+canon	Brand
+camera	Category
+
+call	ModelName
+of	ModelName
+duty	ModelName
+wwii	O
+
+car	Category
+stereo	Category
+
+iphone	ModelName
+x	ModelName
+case	Category
+
+car	Category
+stereo	Category
+with	O
+bluetooth	O
+
+video	O
+camera	Category
+
+canon	Brand
+g7x	ModelName
+mark	ModelName
+ii	ModelName
+
+cb	Category
+radio	Category
+
+cb	O
+radio	Category
+antenna	Category
+
+cb	Category
+radio	Category
+kit	O
+
+cb	Category
+antenna	Category
+
+cb	O
+antenna	Category
+mount	Category
+
+cb	O
+antenna	Category
+kit	Category
+
+cb	Category
+antenna	Category
+wire	Category
+
+cb	O
+radio	Category
+mount	Category
+
+cb5-132t-c9kk	ModelName
+
+cctv	O
+security	Category
+cameras	Category
+
+cctv	Category
+system	O
+
+cctv	Category
+camera	Category
+
+cctv	O
+monitor	Category
+
+cctv	Category
+cable	Category
+
+cctv	Category
+
+ccm	ModelName
+683	ModelName
+
+ccm664	ModelName
+
+ccm663	ModelName
+
+cd	Category
+player	Category
+
+cd	Category
+player	Category
+with	O
+speakers	O
+
+cd	Category
+player	Category
+and	O
+radio	Category
+
+cd	Category
+player	Category
+with	O
+bluetooth	O
+
+cd	Category
+drive	Category
+
+cd	Category
+players	Category
+and	O
+tuners	Category
+
+cd	Category
+burner	Category
+
+cd-r	Category
+
+cd-rom	Category
+drive	Category
+
+cell	Category
+phones	Category
+
+cell	Category
+phones	Category
+with	O
+no	O
+contract	O
+
+unlocked	O
+cell	Category
+phones	Category
+
+cell	O
+phone	O
+signal	Category
+booster	Category
+
+ceiling	O
+speakers	Category
+
+cell	O
+phone	Category
+accessories	Category
+
+cell	Category
+phones	Category
+for	O
+t-mobile	O
+
+cell	Category
+phone	Category
+car	O
+mount	Category
+
+cell	Category
+phones	Category
+no	O
+contract	O
+unlocked	O
+
+cf	O
+memory	Category
+card	Category
+
+cf	Category
+card	Category
+
+cf	Category
+card	Category
+reader	Category
+
+cf	O
+memory	Category
+card	Category
+reader	Category
+
+cf	O
+card	Category
+adapter	Category
+
+cfast	ModelName
+2.0	ModelName
+card	O
+
+cf	Category
+reader	Category
+
+cfast	O
+memory	Category
+card	Category
+
+cfast	ModelName
+128gb	Storage
+
+cf391	ModelName
+curved	O
+led	Category
+monitor	Category
+
+mc17j8000cg	ModelName
+
+mc11k7035cg	ModelName
+
+cgs-5020	ModelName
+
+whirlpool	Brand
+w3cg3014xs	ModelName
+
+whirlpool	Brand
+w3cg3014xb	ModelName
+
+chromebook	Category
+
+chromecast	ModelName
+
+chest	O
+freezer	Category
+
+chromecast	ModelName
+2	ModelName
+
+charger	Category
+for	O
+iphone	ModelName
+
+chromebook	Category
+laptop	Category
+
+chefman	Brand
+air	Category
+fryer	Category
+
+champion	O
+amiibo	ModelName
+
+chromecast	ModelName
+ultra	ModelName
+
+cintiq	ModelName
+
+cinnamon	O
+hdmi	Category
+
+circle	O
+by	O
+disney	Brand
+
+cinderella	O
+dvd	Category
+
+circle	ModelName
+2	ModelName
+
+cisco	Brand
+
+cities	ModelName
+skylines	ModelName
+
+wt1901ck	ModelName
+
+lg	Brand
+wd100ck	ModelName
+
+lg	Brand
+wt1901ck	ModelName
+
+clock	Category
+radio	Category
+
+super	ModelName
+nintendo	ModelName
+classic	ModelName
+
+nintendo	Brand
+classic	ModelName
+edition	ModelName
+
+vacuum	Category
+cleaners	Category
+
+clothes	Category
+dryer	Category
+
+clock	O
+radio	O
+with	O
+cd	Category
+player	Category
+
+cm	O
+700	O
+modem	Category
+
+cm	ModelName
+storm	ModelName
+
+cm	ModelName
+4550	ModelName
+
+cm1000	ModelName
+
+cmos	Category
+battery	Category
+
+cm600	ModelName
+
+cm10	ModelName
+
+cm500	ModelName
+
+cnco	Brand
+
+computer	Category
+
+computer	O
+monitors	Category
+
+coffee	Category
+makers	Category
+
+counter	O
+depth	O
+refrigerator	Category
+
+computer	O
+speakers	Category
+
+desktop	Category
+computers	Category
+
+cordless	Category
+home	Category
+phones	Category
+
+computer	O
+desk	Category
+
+corsair	Brand
+keyboard	Category
+
+cooktop	Category
+
+cpu	Category
+cooler	Category
+
+cpu	Category
+processor	Category
+
+cpu	Category
+cooling	Category
+fan	Category
+
+cpu	Category
+fan	Category
+
+cpu	Category
+fan	Category
+&	O
+heatsink	O
+
+computer	Category
+processor	Category
+
+cpu	Category
+water	O
+cooler	Category
+
+cpu	Category
+pc	O
+
+chromecast	ModelName
+
+cricket	O
+wireless	Category
+phones	Category
+
+crock	Brand
+pot	Brand
+
+cricket	O
+cell	Category
+phones	Category
+
+crash	ModelName
+bandicoot	ModelName
+
+cricket	O
+sim	Category
+card	Category
+
+cr	ModelName
+2032	ModelName
+battery	Category
+
+cs	ModelName
+go	ModelName
+
+csi	ModelName
+crime	O
+scene	O
+investigation	O
+
+cs	ModelName
+9080	ModelName
+
+csr	ModelName
+audio	O
+
+csi	ModelName
+complete	O
+series	O
+
+cs-9060	ModelName
+
+csi	ModelName
+final	O
+season	O
+
+usb	O
+type	O
+c-to-usb	Category
+type	O
+c	O
+
+usb	O
+type	O
+c-to-micro	O
+usb	Category
+adapter	Category
+
+ctl490dw	ModelName
+
+usb	Category
+type	Category
+c-to-usb	Category
+type	Category
+a	Category
+
+mg11h2020ct	ModelName
+
+curved	O
+tv	Category
+
+curved	O
+monitor	Category
+
+curve	O
+tv	Category
+
+cuphead	O
+xbox	ModelName
+one	ModelName
+
+cuisinart	Brand
+coffee	Category
+maker	Category
+
+curved	O
+gaming	Category
+monitor	Category
+
+cuisinart	Brand
+
+wd100cv	ModelName
+
+lg	Brand
+wd200cv	ModelName
+
+dell	Brand
+cvxgf	O
+toner	Category
+cartridge	Category
+black	O
+
+cwm663	ModelName
+
+wm3270cw	ModelName
+
+wt7200cw	ModelName
+
+lg	Brand
+wt7200cw	ModelName
+
+lg	Brand
+wt7500cw	ModelName
+
+lg	Brand
+wt1501cw	ModelName
+
+lg	Brand
+wm3270cw	ModelName
+
+wt1501cw	ModelName
+
+wt7500cw	ModelName
+
+cx	O
+amplifier	Category
+
+cx750m	ModelName
+
+cxa	ModelName
+600	ModelName
+
+ti-nspire	ModelName
+cx	ModelName
+
+cx675	ModelName
+
+cx440	ModelName
+
+texas	Brand
+instruments	Brand
+ti-nspire	ModelName
+cx	ModelName
+
+activeon	Brand
+cx	ModelName
+hd	O
+action	O
+camera	Category
+
+kicker	Brand
+cx	ModelName
+1200	ModelName
+
+sennheiser	Brand
+cx	ModelName
+2.00g	ModelName
+
+cyber	Brand
+power	Brand
+pc	Brand
+
+cyberpower	ModelName
+pc	ModelName
+
+cyberpowerpc	Brand
+desktop	Category
+gaming	O
+pc	Category
+
+cyberpowerpc	Brand
+
+cybertron	Brand
+pc	Category
+
+cyberpower	Brand
+battery	Category
+backup	Category
+
+cyberpower	Brand
+
+cyber	Brand
+power	Brand
+ups	Category
+
+dash	Category
+cam	Category
+
+dash	O
+camera	Category
+
+horizon	ModelName
+zero	ModelName
+dawn	ModelName
+
+dash	Category
+cam	Category
+front	O
+and	O
+rear	O
+
+horizon	ModelName
+zero	ModelName
+dawn	ModelName
+ps4	O
+
+dash	Category
+cam	Category
+for	O
+car	O
+
+dc	Brand
+universe	Brand
+10th	O
+
+dc	Brand
+10th	O
+anniversary	O
+
+dc	O
+to	O
+ac	O
+power	Category
+inverter	Category
+
+dc	O
+power	Category
+supply	Category
+
+dc	Category
+adapter	Category
+
+dc	Category
+5v	O
+charger	Category
+
+dc	Brand
+4k	O
+collection	O
+
+ddr4	Category
+memory	Category
+
+ddr3	Category
+ram	Category
+
+ddr4	O
+ram	Category
+
+ddr3	Category
+ram	Category
+for	O
+laptop	O
+
+ddr3	Category
+
+ddr3	Category
+desktop	O
+ram	Category
+
+ddr4	Category
+
+ddr4	Category
+2400	O
+ram	Category
+
+ddr4	RAM
+ram	O
+laptop	Category
+
+ddr3l	Category
+laptop	O
+memory	Category
+
+120hz	O
+led	O
+tv	Category
+
+4k	O
+tv	Category
+
+aa	O
+aaa	O
+battery	Category
+charger	Category
+
+aaxa	Brand
+projector	Category
+
+acer	Brand
+laptop	Category
+
+acer	Brand
+predator	ModelName
+laptop	Category
+
+action	Category
+camera	Category
+
+adapter	Category
+for	O
+macbook	O
+pro	O
+
+adobe	Brand
+photoshop	ModelName
+elements	ModelName
+2018	ModelName
+
+afterglow	Brand
+headset	Category
+for	O
+xbox	O
+one	O
+
+air	Category
+pods	Category
+
+airpods	Category
+
+alexa	ModelName
+
+amazon	O
+fire	O
+7"	O
+tablet	Category
+
+amplifier	Category
+
+antennas	O
+hdtv	Category
+antenna	Category
+
+apple	Brand
+tv	Category
+
+apple	Brand
+watch	Category
+series	ModelName
+2	ModelName
+38mm	O
+
+aquabot	Brand
+
+aquasana	Brand
+water	Category
+filter	Category
+
+arlo	Brand
+q	O
+
+astro	Brand
+a40	ModelName
+headset	Category
+
+asus	Brand
+chromebook	Category
+flip	ModelName
+c302ca-dhm4	ModelName
+
+asus	Brand
+laptop	Category
+
+asus	Brand
+vx24ah	ModelName
+
+at&t	Brand
+
+at&t	Brand
+gophone	ModelName
+
+audio	Category
+receiver	Category
+
+audioquest	Brand
+hdmi	Category
+cables	Category
+
+av	Category
+cable	Category
+
+b&w	Brand
+headphones	Category
+
+battery	Category
+
+battery	Category
+pack	O
+
+bd-j5700	ModelName
+
+bdi	O
+tv	Category
+stands	Category
+
+beats	Brand
+by	O
+dr.	O
+dre	O
+studio	O
+2	O
+
+beats	Brand
+solo	ModelName
+2	ModelName
+wireless	O
+
+binoculars	Category
+
+blu-ray	Category
+
+bluetooth	O
+headset	Category
+
+bluetooth	Category
+transmitter	Category
+
+bmw	O
+dash	Category
+kit	Category
+
+bt	O
+earbuds	Category
+
+bt	Category
+speakers	Category
+
+call	ModelName
+of	ModelName
+duty	ModelName
+world	ModelName
+war	ModelName
+2	ModelName
+
+canon	Brand
+sx730	ModelName
+hs	ModelName
+
+canon	Brand
+vixia	ModelName
+hf	ModelName
+r82	ModelName
+
+car	Category
+stereo	Category
+with	O
+bluetooth	O
+
+cb3-431-c5ex	ModelName
+
+cctv	Category
+camera	Category
+
+cctv	Category
+security	Category
+cameras	Category
+
+cell	Category
+phone	Category
+accessories	O
+
+cell	Category
+phone	Category
+car	Category
+mount	Category
+
+cell	Category
+phones	Category
+for	O
+t-mobile	O
+
+cf	Category
+memory	Category
+card	Category
+
+charger	Category
+for	O
+iphone	O
+
+chefman	Brand
+air	Category
+fryer	Category
+
+cm600	ModelName
+
+cpu	Category
+water	O
+cooler	Category
+
+cs-9060	ModelName
+
+curve	O
+tv	Category
+
+ddr4	Category
+ram	Category
+laptop	O
+
+dell	Brand
+gaming	Category
+s2417dg	ModelName
+
+dell	Brand
+xps	ModelName
+15	ScreenSize
+
+digital	Category
+camera	Category
+
+dlp	O
+projector	Category
+1080p	O
+
+dp	O
+cable	Category
+adapter	Category
+
+dryer	Category
+
+dual	O
+monitor	Category
+stand	Category
+
+dv42h5000ew	ModelName
+
+dvd	Category
+movies	Category
+
+dw80m9550us	ModelName
+
+ebike	Category
+
+eero	Brand
+pro	ModelName
+
+either	Category
+net	Category
+cable	Category
+
+electric	Category
+dryer	Category
+
+en-el	O
+14a	O
+battery	Category
+nikon	Brand
+
+epson	Brand
+220	ModelName
+ink	ModelName
+cartridges	Category
+
+epson	Brand
+410	ModelName
+ink	O
+cartridge	Category
+
+equator	Brand
+washer	Category
+
+ergonomic	Category
+keyboard	Category
+
+essential	Category
+oils	Category
+ellia	Brand
+
+essential	Brand
+phone	Category
+case	Category
+
+ethernet	Category
+cable	Category
+
+ethernet	Category
+splitter	Category
+

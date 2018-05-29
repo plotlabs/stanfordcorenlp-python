@@ -15,7 +15,11 @@ import edu.stanford.nlp.util.CoreMap;
 import edu.stanford.nlp.util.PropertiesUtils;
 import edu.stanford.nlp.util.StringUtils;
 
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 import java.util.Properties;
@@ -95,7 +99,7 @@ public class Py4j_try {
 		return clauses_out;
 	}
 	
-	public void trainAndWrite(String modelOutPath, String prop, String trainingFilepath) 
+	public void trainAndWrite(String modelOutPath, String modelName, String prop, String trainingFilepath) 
 	{
 		   System.out.println(prop);
 		   Properties props = StringUtils.propFileToProperties(prop);
@@ -107,6 +111,29 @@ public class Py4j_try {
 		   SeqClassifierFlags flags = new SeqClassifierFlags(props);
 		   CRFClassifier<CoreLabel> crf = new CRFClassifier<>(flags);
 		   crf.train();
+		   if (modelOutPath != null)
+		   {
+			   //String[] arrOfFilePath = modelOutPath.split("/");
+			   //String[] folderDir = Arrays.copyOfRange(arrOfFilePath, 0, arrOfFilePath.length - 1);
+			   //File targetFolder = new File(String.join("/", folderDir) + "/target/");
+			   File targetFolder = new File(modelOutPath + "target/");
+			   if (!targetFolder.exists()){
+				   try 
+				   {
+					   targetFolder.mkdirs();
+					   FileWriter writer = new FileWriter(targetFolder);
+				   } 
+				   catch (IOException e) 
+				   {
+					   // TODO Auto-generated catch block
+					   //e.printStackTrace();
+					   //System.out.println("Error in creating the Target Folder");
+					   System.out.println("Creating Target Folder");
+				   }
+			   }
+			   modelOutPath = modelOutPath+"target/"+modelName;
+		   }
+		   //crf.serializeClassifier(props.getProperty("serializeTo"));
 		   crf.serializeClassifier(modelOutPath);
 	}
 	
